@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+   <h1>
+     Hello! I'am Everson Menezes    
+   </h1>
+</div>
+ <p>📚 Student at the Federal Institute of Sergipe</p>
+ <p>💻 3th period in Information Systems</p>
+ <p>🌎 Brazil</p>
+ 
+ <div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Everson-s8&theme=dracula&hide_border=true" width="450"/>
+</div>
+</div>
 
-<!--
-**Everson-s8/Everson-s8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
