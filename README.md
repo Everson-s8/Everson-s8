@@ -18,6 +18,15 @@
 
 ## 
 
+
+<div align="center">
+  <a href="https://github.com/BrunoRafael-01">
+  <img width="42%"  src="https://github-readme-stats.vercel.app/api?username=Everson-s8&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everson-s8&layout=compact&langs_count=7&theme=github_dark">
+</div><br>
+
+ ##
+   
  <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Everson-s8&theme=dracula&hide_border=true" width="450" />
 </div>
